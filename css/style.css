@@ -408,7 +408,7 @@ figure {
 
 #fh5co-counter,
 #fh5co-event {
-  height: 850px;
+  height: inherit;
   float: left;
 }
 
@@ -466,6 +466,7 @@ figure {
   border: 2px solid rgba(255, 255, 255, 0.5);
   background: rgba(255, 255, 255, 0.1);
   padding: 30px;
+  margin-bottom: 30px;
   width: 100%;
   float: left;
   -webkit-border-radius: 4px;
